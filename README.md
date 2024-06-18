@@ -5,3 +5,7 @@ This was an exercise I did in Image Processing. Its goal was to align and blend 
 This was an exercise in Image Processing that I (mistakenly) implemented all by myself, without the use of external libraries like OpenCV (apart from NumPy and the occasional convolution with a Sobel kernel using SciPy).
 
 The report explaining the process is attached as a PDF file.
+
+These were the original images:
+
+![lake low res](https://github.com/iwarshavsky/image_alignment/blob/main/img/lake_low_res.jpg?raw=true)
