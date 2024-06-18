@@ -16,7 +16,7 @@ These were the original images of the lake scenario:
 
 The result:
   <img src="./results/result_lake.jpeg?raw=true" /> 
-
+***
   These were the original images of the desert scenario:
 
 
