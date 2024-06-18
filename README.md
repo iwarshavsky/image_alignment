@@ -8,7 +8,7 @@ The report explaining the process is attached as a PDF file.
 
 These were the original images:
 
-Low resolution | High Resolution
-------------- | -------------
+Low resolution                                                                                                                | High Resolution
+----------------------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![lake low res](https://github.com/iwarshavsky/image_alignment/blob/main/img/lake_low_res.jpg?raw=true "Low resolution lake") | ![lake high res](https://github.com/iwarshavsky/image_alignment/blob/main/img/lake_high_res.png?raw=true "High resolution lake with projective transformation")
