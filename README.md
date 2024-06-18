@@ -10,8 +10,8 @@ These were the original images:
 
 
 <p float="left">
-  <img src="./img/lake_low_res.jpg?raw=true" width="50%" />
-  <img src="./img/lake_high_res.png?raw=true" width="50%" /> 
+  <img src="./img/lake_low_res.jpg?raw=true" />
+  <img src="./img/lake_high_res.png?raw=true" /> 
 </p>
 
 The result:
