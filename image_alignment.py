@@ -370,7 +370,7 @@ from matplotlib import pyplot as plt
 
 im_low_res_path = "img/lake_low_res.jpg"
 im_high_res_path = "img/lake_high_res.png"
-result = ex4.transform_and_blend(im_low_res_path, im_high_res_path, 1000, 1000, 5)
+result = image_alignment.transform_and_blend(im_low_res_path, im_high_res_path, 1000, 1000, 5)
 plt.imshow(result)
 plt.show()
 """
