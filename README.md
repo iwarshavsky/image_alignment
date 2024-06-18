@@ -6,7 +6,7 @@ This was an exercise in Image Processing that I (mistakenly) implemented all by 
 
 The report explaining the process is attached as a PDF file.
 
-These were the original images:
+These were the original images of the lake scenario:
 
 
 <p float="left">
@@ -15,4 +15,15 @@ These were the original images:
 </p>
 
 The result:
+  <img src="./results/result_lake.jpeg?raw=true" /> 
 
+  These were the original images of the desert scenario:
+
+
+<p float="left">
+  <img src="./img/desert_low_res.jpg?raw=true" />
+  <img src="./img/desert_high_res.png?raw=true" /> 
+</p>
+
+The result:
+  <img src="./results/result_desert.jpeg?raw=true" /> 
