@@ -10,20 +10,20 @@ These were the original images of the lake scenario:
 
 
 <p float="left">
-  <img style="border: 1px solid gray;" src="./img/lake_low_res.jpg?raw=true" />
-  <img style="border: 1px solid gray;" src="./img/lake_high_res.png?raw=true" /> 
+  <kbd><img src="./img/lake_low_res.jpg?raw=true" /></kbd>
+  <kbd><img src="./img/lake_high_res.png?raw=true" /></kbd>
 </p>
 
 The result:
-  <img style="border: 1px solid gray;" src="./results/result_lake.jpeg?raw=true" /> 
+  <kbd><img src="./results/result_lake.jpeg?raw=true" /></kbd> 
 ***
   These were the original images of the desert scenario:
 
 
 <p float="left">
-  <img style="border: 1px solid gray;" src="./img/desert_low_res.jpg?raw=true" />
-  <img style="border: 1px solid gray;" src="./img/desert_high_res.png?raw=true" /> 
+  <kbd><img src="./img/desert_low_res.jpg?raw=true" /></kbd>
+  <kbd><img src="./img/desert_high_res.png?raw=true" /></kbd> 
 </p>
 
 The result:
-  <img style="border: 1px solid gray;" src="./results/result_desert.jpeg?raw=true" /> 
+  <img src="./results/result_desert.jpeg?raw=true" /></kbd> 
